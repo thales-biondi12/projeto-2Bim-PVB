@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Projeto_2bim_PVB/1.0.0": {
+        "runtime": {
+          "Projeto_2bim_PVB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_2bim_PVB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
